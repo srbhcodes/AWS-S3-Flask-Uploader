@@ -1,5 +1,3 @@
----
-
 ### **1. Create an S3 Bucket**
 1. Used the AWS CLI to create a unique bucket:
    ```bash
@@ -156,4 +154,4 @@
 - Successfully uploaded files to S3 using Flask.
 - Verified file existence in the S3 bucket using the AWS CLI.
 
----
+
